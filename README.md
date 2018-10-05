@@ -1,5 +1,5 @@
 # Pokemon-Analysis
-Dataset will be Visulaized and Analysed through various Machine Learning Libraries & Algorithm. 
+Dataset will be Visualized and Analysed through various Machine Learning Libraries & Algorithm. 
 
 Prediction of Finding speed, power & attack from the given Datasets. 
 
